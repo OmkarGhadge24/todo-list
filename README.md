@@ -2,7 +2,7 @@
 
 The Todo List App is a clean and intuitive task management application built with React and Tailwind CSS. Perfect for managing daily tasks with filtering capabilities and a user-friendly interface.
 
-![Todo List App Interface](image.png)
+![Todo List App Interface](https://github.com/OmkarGhadge24/todo-list/blob/main/public/image.png)
 
 ## Table of Contents
 - [Overview](#overview)
